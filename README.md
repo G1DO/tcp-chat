@@ -52,9 +52,3 @@ handleConnection(conn)
   └── removeClient(conn)   ← cleanup (deferred)
 ```
 
-## Next steps
-
-- [ ] Add usernames
-- [ ] Show "user joined/left" messages
-- [ ] Add private messaging
-- [ ] List online users
